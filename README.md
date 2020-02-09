@@ -14,7 +14,7 @@ $ npm install @npmdevtools/tiny
 ## Usage
 
 ```js
-import tiny from "@npmdevtools/tiny"
+import {tiny} from "@npmdevtools/tiny"
 
 tiny("So much space!");
 //=> "Somuchspace!"
