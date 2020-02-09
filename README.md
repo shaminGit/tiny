@@ -1,5 +1,5 @@
-[![npm (scoped)](https://img.shields.io/github/issues/shaminGit/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/github/license/shaminGit/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/github/issues/shaminGit/tiny.svg)](https://www.npmjs.com/package/@npmdevtools/tiny)
+[![npm bundle size (minified)](https://img.shields.io/github/license/shaminGit/tiny.svg)](https://www.npmjs.com/package/@npmdevtools/tiny)
 
 # @npmdevtools/tiny
 
