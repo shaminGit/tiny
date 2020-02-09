@@ -1,2 +1,3 @@
-# tiny
-Small but powerful npm module for developers 
+# @npmdevtools/tiny
+
+It's Amazing !
